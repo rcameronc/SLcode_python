@@ -12,6 +12,9 @@ Install Conda env
 ```
 make install
 conda activate elastic_sleq
+```
+Run code
+```
 python elastic_slequation_final.py --maxdeg 256
 ```
 
